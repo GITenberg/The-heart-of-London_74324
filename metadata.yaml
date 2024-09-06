@@ -1,0 +1,49 @@
+_repo: The-heart-of-London_74324
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Morton, H. V. (Henry Vollam)
+    aliases:
+    - Morton, Henry Canova Vollam
+    - Morton, Henry Vollam
+    birthdate: 1892
+    deathdate: 1979
+    gutenberg_agent_id: '57446'
+    url: http://www.gutenberg.org/2009/agents/57446
+    wikipedia: https://en.wikipedia.org/wiki/H._V._Morton
+description: ''
+gutenberg_issued: '2024-08-28'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '74324'
+language: en
+pgterms:marc905: 20240817222933morton
+pgterms:marc906: '1925'
+pgterms:marc907: GB
+production_note: Al Haines
+publication_note: '  $aLondon :$bMethuen & Co. Ltd., $c1925, pubdate 1926.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'London (England)'
+- !lcc 'DA'
+- GITenberg
+tableOfContents: The new romance -- Where the eagles sleep -- Oriental (Petticoat
+  Lane) -- Ships come home (the docks) -- Treasure trove (Caledonian Market) -- Cenotaph
+  -- Romance on wheels -- Ghosts of the fog -- Battle (Free Cancer Hospital) -- Babies
+  in the sun (Kensington Gardens) -- Faces in the Strand -- Women and tea -- An open
+  door (St. Martin's Church in the Fields) -- A bit of Bagdad (Club Row) -- "Prisoners
+  Only" (Bow Street) -- Boys on the bridge -- Night birds -- At the wheel -- Under
+  the dome (St. Paul's) -- Heartbreak House -- Madonna of the Pavement -- Sword and
+  cross (Temple Church) -- Knockout Land -- Ghosts (Soane Museum) -- Aladdin's Cave
+  -- That sad stone (Cleopatra's Needle) -- Sun or snow -- Romantic mutton (Shepherd's
+  Market) -- London lovers -- In Uncle's shop -- Horsey men -- From Bow to Ealing
+  -- Marriage -- Kings and queens (Westminster Abbey Waxworks) -- Lost heirs (Record
+  Office) -- Fish (Billingsgate Market) -- Haunted (Old Devonshire House) -- About
+  homes in bondage -- Royal satin (London Museum) -- Among the fur men -- Appeal to
+  Cæsar (Privy Council) -- Tons of money (The Royal Mint) -- Where time stands still
+  -- My lady's dress -- St. Antholin's -- Not for women -- Our Roman bath (The Strand)
+  -- Left behind (Lost Property Office) -- The "girls" (Piccadilly Circus).
+title: The heart of London
+url: http://www.gutenberg.org/ebooks/74324
